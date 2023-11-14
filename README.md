@@ -1,9 +1,9 @@
-### Hello, hardcore? 👋
+### Hello 👋
 
-Maximum warmth, maximum loudness, maximum maximizer, with a *slight* touch of OTT and camel 🐪
+I make funi stuff
 
 
-Currently as a software engineer, full stack, and music producer at the same time. That's life is miserable pro max, but you are the miserable :^)
+Currently as a software engineer, full stack, and music producer at the same time. Bye sleep
 
 
 [![funi](https://img.shields.io/badge/Running%20on-Coffee-green?style=flat-square&logo=typescript)](https://github.com/prettier/prettier)
