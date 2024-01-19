@@ -13,6 +13,8 @@ Currently as a software engineer, full stack, and music producer at the same tim
 
 I make loud music btw
 
-
+the music
 https://www.youtube.com/channel/UCU5-HW3G5U2ztQloUsu6qgQ
+
+the funny box
 https://tabbybox.art/
