@@ -13,4 +13,6 @@ Currently as a software engineer, full stack, and music producer at the same tim
 
 I make loud music btw
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mio9)](https://github.com/mio9/)
+
+https://www.youtube.com/channel/UCU5-HW3G5U2ztQloUsu6qgQ
+https://tabbybox.art/
