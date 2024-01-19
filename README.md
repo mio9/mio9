@@ -12,3 +12,5 @@ Currently as a software engineer, full stack, and music producer at the same tim
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCU5-HW3G5U2ztQloUsu6qgQ?style=social)](https://www.youtube.com/channel/UCU5-HW3G5U2ztQloUsu6qgQ)
 
 I make loud music btw
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mio9)](https://github.com/mio9/)
