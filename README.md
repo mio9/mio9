@@ -3,7 +3,7 @@
 I make funi stuff
 
 
-Currently as a software engineer, full stack, and music producer at the same time. Bye sleep
+Currently as a software engineer, full stack, and music producer at the same time. That filled up my 24 hours a day, minus the time I use to sleep
 
 
 [![funi](https://img.shields.io/badge/Running%20on-Coffee-green?style=flat-square&logo=typescript)](https://github.com/prettier/prettier)
