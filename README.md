@@ -1,7 +1,6 @@
 ### Hello 👋
 
-I make funi stuff
-
+I make marginally useful things
 
 Currently as a software engineer, full stack, and music producer at the same time. That filled up my 24 hours a day, minus the time I use to sleep
 
@@ -13,8 +12,8 @@ Currently as a software engineer, full stack, and music producer at the same tim
 
 I make loud music btw
 
-the music
+the music and video thing
 https://www.youtube.com/channel/UCU5-HW3G5U2ztQloUsu6qgQ
 
-the funny box
+the cat box
 https://tabbybox.art/
