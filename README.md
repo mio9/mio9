@@ -4,6 +4,7 @@ I make marginally useful things
 
 Currently as a software engineer, full stack, and music producer at the same time. That filled up my 24 hours a day, minus the time I use to sleep
 
+<img width="463" height="191" alt="profile" src="https://github.com/user-attachments/assets/eac3550f-81d2-4e88-86b6-58e4aedf9e23" />
 
 [![funi](https://img.shields.io/badge/Running%20on-Coffee-green?style=flat-square&logo=typescript)](https://github.com/prettier/prettier)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
